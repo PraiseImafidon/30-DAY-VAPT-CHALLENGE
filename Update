@@ -1,0 +1,21 @@
+An update on my 30-Days July VAPT challenge. 
+
+I have divided the challenges into weekly activities. More details will be shared soon!
+
+WEEK ONE: TECHNICAL WRITING AND CTFS.
+
+This week will be all about building a strong foundation. I'll be writing informative blog posts on VAPT, explaining key concepts and processes. To put my theoretical knowledge to the test, I'll be partaking in more Capture the Flag (CTF) challenges on platforms like TryHackMe and Hacker101. I'll also be keeping an eye out for interesting CTF events happening online, so stay tuned for updates!
+
+WEEK TWO: WEB APPLICATION PENTESTING USING A VULNERABLE WEB APP. 
+ 
+For week two, everything I do will be web application based. I'll get to identify and exploit vulnerabilities present in the web application. It'll be a hands-on week packed with learning and (hopefully!) successful exploits using various tools. 
+
+WEEK THREE: NETWORK PENTESTING. 
+
+For this, I'll be using Metasploitable 2 as my vulnerable virtual machine. I'll be working through various penetration testing scenarios, learning how to gain access, move through the network, and maintain persistence using a number of tools as well. 
+
+WEEK FOUR: REPORT WRITING.
+
+No penetration testing experience is complete without a comprehensive report. For this week, I will be learning, as well as sharing how to write concise and accurate reports after a pen test that effectively communicate identified vulnerabilities and recommendations.
+
+I am pretty excited about this and need July to start soon. I hope this challenge will not only help me improve my skills, but also help others who might need it. Link for the github repo coming up soon!
